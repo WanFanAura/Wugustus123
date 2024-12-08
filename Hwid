@@ -1,22 +1,42 @@
-7534adbd07a0bc579deb11cade09ade6
-73f0b7fc4ab4d7c91e7545fd7b0d372f
-400fd7222d371aeb44c3fa5b3739ea03
-0411876bfea3644a8ec7c2a9cbf513ae
-a360023bc277b3796dc508aa34644867
-1f598814a30a132a77650c2ccc77ab58
-02e6c244a9660eebb78fd6198ff3508e
-6f0c98b38c58c84017c02c6f93c93b4a
-f25ca39c4c649ec96e68db6a7b0e959e
-fb5f0ccabf27890830a765a5c49a07fb
-e718ab8c58ec8c0e751d948368cd440c
-7124fc599414d044a112a5485dbf78f1
-7ce2b40a44576ee68d2bcd937e577c7d
-29a3aba95e9a834bb47ff3dc29149701
-61012841186d84a9761b7e1bf6ea1a97
-572016a7678ade0da6824396f8e33a2b
-93b5b68855dab1b467c362f6d6cb6064
-5ba62d3b40b4456e2d322bcf91cab0ed
-0c2e3eb20a2c835781063eabb3ff3bc9
-c5521887e1bc4e57c649a6bf43a17c0b
-25d3dc123e82d1c3c5af4ee5e8dab38a
-bc5ff51abdba41e741a639b639d862de
+Atom Client 1208 DevLog
+qq Group
+MoreKB
+-added S-Tap
+-added Sneak-Tap
+-recode W-Tap
+-added W/S/Sneak-TapTicks
+
+NoWeb
+-added Grim
+-added Intave
+-added Vanilla
+-added IntaveSetting IntaveSneak
+
+Scaffold
+-added SprintMode/OldIntave
+-added Tower/Intave(Test
+-added Tower/Hypixel
+-added IntaveBypassTest
+
+NoFall
+-added HypixelTimer
+
+LongJump
+-added IntaveBoatB
+-added Intave(Test
+-added Polar(Test
+
+KillAura
+-added OnlyAim
+-added NoSilentRotation
+-added MoveFixMode
+-added SmartClick
+-added SmartClickMode
+-added SmartClickMode/Simple/Strick
+-added ResetTick
+-added ResetTickTimer
+-added ResetTickTimeMS
+
+Module
+-delete STapModule
+-delete LegitCombatHelper
